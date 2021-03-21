@@ -1,4 +1,4 @@
-package de.pandooor.model;
+package de.pandooor.firstjdbc.model;
 
 public class AbstractEntity {
 
